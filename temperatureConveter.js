@@ -5,4 +5,6 @@ const kelvin = 293;
 and assigning to a variable named celcius*/
 let celsius = kelvin - 273;
 
+/*Code below converts celcius to fahrenhei and the value
+attained to a variable called fahrenheit*/
 let fahrenheit = celsius *(9/5) + 32;

@@ -7,4 +7,4 @@ let celsius = kelvin - 273;
 
 /*Code below converts celcius to fahrenhei and the value
 attained to a variable called fahrenheit*/
-let fahrenheit = celsius *(9/5) + 32;
+let fahrenheit = Math.floor(celsius *(9/5) + 32);
